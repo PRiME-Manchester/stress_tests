@@ -1,0 +1,190 @@
+
+ ##############################################
+
+
+  Integer Stress Test Linux/ARM v1.0 Mon Aug  4 15:48:13 2014
+
+   8 KBytes Cache or RAM Space, 1 Seconds Per Test, 12 Tests
+
+ Write/Read
+  1    4223 MB/sec  Pattern 00000000 Result OK     257772 passes
+  2    4245 MB/sec  Pattern FFFFFFFF Result OK     259071 passes
+  3    4145 MB/sec  Pattern A5A5A5A5 Result OK     253000 passes
+  4    4255 MB/sec  Pattern 55555555 Result OK     259706 passes
+  5    4220 MB/sec  Pattern 33333333 Result OK     257558 passes
+  6    4292 MB/sec  Pattern F0F0F0F0 Result OK     261983 passes
+
+                   Maximum speed   2347 MIPS
+ Read
+  1    6776 MB/sec  Pattern 00000000 Result OK     827300 passes
+  2    6745 MB/sec  Pattern FFFFFFFF Result OK     823400 passes
+  3    6554 MB/sec  Pattern A5A5A5A5 Result OK     800100 passes
+  4    6661 MB/sec  Pattern 55555555 Result OK     813100 passes
+  5    6774 MB/sec  Pattern 33333333 Result OK     826900 passes
+  6    6751 MB/sec  Pattern F0F0F0F0 Result OK     824100 passes
+
+                   Maximum speed   4033 MIPS
+
+                   End at Mon Aug  4 15:48:25 2014
+
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ 
+
+From File /proc/version
+ 
+
+
+ ##############################################
+
+
+  Integer Stress Test Linux/ARM v1.0 Mon Aug  4 15:49:12 2014
+
+   8 KBytes Cache or RAM Space, 1 Seconds Per Test, 12 Tests
+
+ Write/Read
+  1    4251 MB/sec  Pattern 00000000 Result OK     259446 passes
+  2    4274 MB/sec  Pattern FFFFFFFF Result OK     260888 passes
+  3    4247 MB/sec  Pattern A5A5A5A5 Result OK     259231 passes
+  4    4191 MB/sec  Pattern 55555555 Result OK     255775 passes
+  5    4273 MB/sec  Pattern 33333333 Result OK     260817 passes
+  6    4242 MB/sec  Pattern F0F0F0F0 Result OK     258939 passes
+
+                   Maximum speed   2338 MIPS
+ Read
+  1    6770 MB/sec  Pattern 00000000 Result OK     826400 passes
+  2    6795 MB/sec  Pattern FFFFFFFF Result OK     829600 passes
+  3    6704 MB/sec  Pattern A5A5A5A5 Result OK     818400 passes
+  4    6675 MB/sec  Pattern 55555555 Result OK     814900 passes
+  5    6805 MB/sec  Pattern 33333333 Result OK     830700 passes
+  6    6691 MB/sec  Pattern F0F0F0F0 Result OK     816800 passes
+
+                   Maximum speed   4050 MIPS
+
+                   End at Mon Aug  4 15:49:24 2014
+
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ 
+
+From File /proc/version
+ 
+
+
+ ##############################################
+
+
+  Integer Stress Test Linux/ARM v1.0 Mon Aug  4 15:49:27 2014
+
+   8 KBytes Cache or RAM Space, 10 Seconds Per Test, 12 Tests
+
+ Write/Read
+  1    4249 MB/sec  Pattern 00000000 Result OK    2593308 passes
+  2    4241 MB/sec  Pattern FFFFFFFF Result OK    2588540 passes
+  3    4253 MB/sec  Pattern A5A5A5A5 Result OK    2595987 passes
+  4    4251 MB/sec  Pattern 55555555 Result OK    2594578 passes
+  5    4241 MB/sec  Pattern 33333333 Result OK    2588551 passes
+
+ ##############################################
+
+
+  Integer Stress Test Linux/ARM v1.0 Mon Aug  4 17:28:06 2014
+
+   8 KBytes Cache or RAM Space, 1 Seconds Per Test, 12 Tests
+
+ Write/Read
+  1    4275 MB/sec  Pattern 00000000 Result OK     260947 passes
+  2    4247 MB/sec  Pattern FFFFFFFF Result OK     259197 passes
+  3    4294 MB/sec  Pattern A5A5A5A5 Result OK     262113 passes
+  4    4319 MB/sec  Pattern 55555555 Result OK     263607 passes
+  5    4240 MB/sec  Pattern 33333333 Result OK     258782 passes
+  6    4247 MB/sec  Pattern F0F0F0F0 Result OK     259187 passes
+
+                   Maximum speed   2362 MIPS
+ Read
+  1    6702 MB/sec  Pattern 00000000 Result OK     818100 passes
+  2    6768 MB/sec  Pattern FFFFFFFF Result OK     826200 passes
+  3    6818 MB/sec  Pattern A5A5A5A5 Result OK     832300 passes
+  4    6751 MB/sec  Pattern 55555555 Result OK     824100 passes
+  5    6713 MB/sec  Pattern 33333333 Result OK     819500 passes
+  6    6666 MB/sec  Pattern F0F0F0F0 Result OK     813700 passes
+
+                   Maximum speed   4057 MIPS
+
+                   End at Mon Aug  4 17:28:18 2014
+
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ 
+
+From File /proc/version
+ 
+
+
+ ##############################################
+
+   8 KBytes Cache or RAM Space, 1 Seconds Per Test, 12 Tests
+
+ Write/Read
+  1    4190 MB/sec  Pattern 00000000 Result OK     255767 passes
+  2    4131 MB/sec  Pattern FFFFFFFF Result OK     252126 passes
+  3    4148 MB/sec  Pattern A5A5A5A5 Result OK     253197 passes
+  4    4132 MB/sec  Pattern 55555555 Result OK     252197 passes
+  5    4166 MB/sec  Pattern 33333333 Result OK     254284 passes
+  6    4127 MB/sec  Pattern F0F0F0F0 Result OK     251895 passes
+
+                   Maximum speed   2292 MIPS
+ Read
+  1    6753 MB/sec  Pattern 00000000 Result OK     824400 passes
+  2    6857 MB/sec  Pattern FFFFFFFF Result OK     837100 passes
+  3    6815 MB/sec  Pattern A5A5A5A5 Result OK     832000 passes
+  4    6646 MB/sec  Pattern 55555555 Result OK     811300 passes
+  5    6233 MB/sec  Pattern 33333333 Result OK     760900 passes
+  6    6715 MB/sec  Pattern F0F0F0F0 Result OK     819800 passes
+
+                   Maximum speed   4081 MIPS
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ 
+
+From File /proc/version
+ 
+
+
+ ##############################################
+
+   8 KBytes Cache or RAM Space, 1 Seconds Per Test, 12 Tests
+
+ Write/Read
+  1    4209 MB/sec  Pattern 00000000 Result OK     256895 passes
+  2    4259 MB/sec  Pattern FFFFFFFF Result OK     259936 passes
+  3    4259 MB/sec  Pattern A5A5A5A5 Result OK     259969 passes
+  4    4232 MB/sec  Pattern 55555555 Result OK     258323 passes
+  5    4163 MB/sec  Pattern 33333333 Result OK     254088 passes
+  6    4221 MB/sec  Pattern F0F0F0F0 Result OK     257620 passes
+
+                   Maximum speed   2329 MIPS
+ Read
+  1    6789 MB/sec  Pattern 00000000 Result OK     828800 passes
+  2    6780 MB/sec  Pattern FFFFFFFF Result OK     827700 passes
+  3    6858 MB/sec  Pattern A5A5A5A5 Result OK     837200 passes
+  4    6691 MB/sec  Pattern 55555555 Result OK     816800 passes
+  5    6766 MB/sec  Pattern 33333333 Result OK     826000 passes
+  6    6807 MB/sec  Pattern F0F0F0F0 Result OK     831000 passes
+
+                   Maximum speed   4081 MIPS
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+ 
+
+From File /proc/version
+ 
+

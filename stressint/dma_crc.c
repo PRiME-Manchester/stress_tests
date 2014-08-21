@@ -1,0 +1,35 @@
+// crc polynomials
+
+dma[0]  = 0xFB808B20;
+dma[1]  = 0x7DC04590;
+dma[2]  = 0xBEE022C8;
+dma[3]  = 0x5F701164;
+dma[4]  = 0x2FB808B2;
+dma[5]  = 0x97DC0459;
+dma[6]  = 0xB06E890C;
+dma[7]  = 0x58374486;
+dma[8]  = 0xAC1BA243;
+dma[9]  = 0xAD8D5A01;
+dma[10] = 0xAD462620;
+dma[11] = 0x56A31310;
+dma[12] = 0x2B518988;
+dma[13] = 0x95A8C4C4;
+dma[14] = 0xCAD46262;
+dma[15] = 0x656A3131;
+dma[16] = 0x493593B8;
+dma[17] = 0x249AC9DC;
+dma[18] = 0x924D64EE;
+dma[19] = 0xC926B277;
+dma[20] = 0x9F13D21B;
+dma[21] = 0xB409622D;
+dma[22] = 0x21843A36;
+dma[23] = 0x90C21D1B;
+dma[24] = 0x33E185AD;
+dma[25] = 0x627049F6;
+dma[26] = 0x313824FB;
+dma[27] = 0xE31C995D;
+dma[28] = 0x8A0EC78E;
+dma[29] = 0xC50763C7;
+dma[30] = 0x19033AC3;
+dma[31] = 0xF7011641;
+

@@ -1,0 +1,7 @@
+{
+ "settings":
+ {
+ "sublimegdb_commandline": "gdb -nx -readnow -fullname --interpreter=mi -args ./stressint",
+ "sublimegdb_workingdir": "${folder:${project_path:bin/stressint}}"
+ }
+}
